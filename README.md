@@ -14,5 +14,6 @@ $$
 5. Increase t by the step size $$\Delta t$$
 6. Loop to step 2 based on `n`
 
-#### To get the actual value or curve, use $$ e^x $$
+#### To get the actual value or curve, use 
+$$ e^x $$
 #### Plot the graphs for various curves with lesser step size
